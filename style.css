@@ -310,10 +310,11 @@
 
 
 .footer {
-	padding: 90px 45px;
+	padding: 90px 50px;
 	background-color: rgba(195, 196, 199, 0.884);
 	color: black;
 	display: flex;
+	width: 202vh;
 }
 
 .footer div {
